@@ -1,0 +1,23 @@
+{
+  "name": "mutation-observer-js",
+  "version": "1.0.0",
+  "description": "Mutation Observer Polyfill",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubJian/mutation-observer-js.git"
+  },
+  "keywords": [
+    "MutationObserver"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitHubJian/mutation-observer-js/issues"
+  },
+  "homepage": "https://github.com/GitHubJian/mutation-observer-js#readme",
+  "dependencies": {}
+}
